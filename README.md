@@ -1,2 +1,2 @@
-# Projects
-It has all ML/DL/AI projects
+# Attrition
+It has Attrition project
